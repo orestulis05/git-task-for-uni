@@ -21,8 +21,9 @@
             }
         }
 
-        print("baigesi su " . $n);
+        return $n;
     }
 
-    collatz_fn(30);
+    $nulis = collatz_fn(30);
+    print($nulis);
 ?>

@@ -1,4 +1,10 @@
 <?php
+    /* 
+    This is another commit to the remote repository.
+    Adding some comments was necessary of course.
+    */
+
+    // Collatz conjecture
     function collatz_fn($number)
     {
         $n = $number;
